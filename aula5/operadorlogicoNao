@@ -1,0 +1,5 @@
+//operador não (not)
+//sempre retorna o booleano opsto
+
+!true//false
+!false//true
